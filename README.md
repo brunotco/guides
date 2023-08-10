@@ -1,2 +1,2 @@
 # Guides
-Collection of guides and to-dos for same softwares and tools I used.
+Collection of guides and helpers for systems, softwares and tools.
